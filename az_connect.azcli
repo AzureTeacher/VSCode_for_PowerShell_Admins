@@ -1,0 +1,5 @@
+az login
+
+az account show
+
+az account list --all --output table
